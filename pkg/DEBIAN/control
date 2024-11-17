@@ -1,0 +1,10 @@
+Package: me.ylur.itunesstorexv
+Name: iTunesStoreXV
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This package implements a new fix to the iTunes Store.
+Depiction: https://ylur.me/Cydia/itunesstorexv.html
+Homepage: https://github.com/smwms1/itunesstorexv
+Maintainer: Solomon Wood <smw@ylur.me>
+Author: Solomon Wood <smw@ylur.me>
+Section: Tweaks

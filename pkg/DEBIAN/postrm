@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Revert backup
+echo "Reverting backup..."
+cp /etc/hosts.itunesstorexv.bak /etc/hosts
